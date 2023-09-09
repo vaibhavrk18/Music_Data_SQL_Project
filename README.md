@@ -1,9 +1,9 @@
-# Music_Data_SQL_Project:
+**# Music_Data_SQL_Project:**
 
 <img width="754" alt="Screenshot 2023-09-09 143724" src="https://github.com/vaibhavrk18/Music_Data_SQL_Project/assets/138751404/bf6c9dbd-7f23-47c9-943b-f7ffd06ac97c">
 
 ***
-OUTPUT OF ABOVE QUERY:
+**OUTPUT OF ABOVE QUERY:**
 
 [Popular Genre In Country by Purchases.csv](https://github.com/vaibhavrk18/Music_Data_SQL_Project/files/12565378/Popular.Genre.In.Country.by.Purchases.csv)
 
@@ -14,9 +14,9 @@ I have used different SQL queries and found some important insights from the dat
 Lets take look at the work.
 
 ***
-Questions solved in this projects are :
+**Questions solved in this projects are :**
 
-# BASIC QUESTIONS:
+BASIC QUESTIONS:
 
     Q1: Who is the senior most employee based on job title?
     Q2: Which countries have the most Invoices?
@@ -27,7 +27,7 @@ Questions solved in this projects are :
     Q5: who is the best customer? the customer who has spent the most money will be declared the best 
         customer. Write the query that returns the person who has spent the most money.
 
-# MODERATE QUESTIONS / CTE LEVEL:
+MODERATE QUESTIONS / CTE LEVEL:
     
     Q6: Write a query to return email, first name, last name and genre of all rock music listeners
         return your list ordered alphabetically by email starting with A.
@@ -37,7 +37,7 @@ Questions solved in this projects are :
         Return the Name and Milliseconds for each track. Order by the song length with the longest 
         songs listed first.
 
-# ADVANCE QUESTIONS / RECURSIVE CTE / WINDOW_FUNCTION:
+ADVANCE QUESTIONS / RECURSIVE CTE / WINDOW_FUNCTION:
     
     Q9: Find how much amount spent by each customer on artists? Write a query to return customer
         name, astist name and total spend.
@@ -50,6 +50,13 @@ Questions solved in this projects are :
          where the top amount spent is shared, provide all customers who spent this amount.
 
 
-# Summary of the findings:
+**SUMMARY OF THE FINDINGS:**
+
+1. Mohan Madan is the senior employee with Level 7.
+2. There are 6 different job titles entertained.
+3. Prague city has the highest sum of invoice Totals and customer name is R Madhav.
+4. Artist "Led Zeppelin" has wrote the most ROCK albums i.e. 114.
+5. Artist Queen has made the highest totals which is 190 where 43 users have contributed to this total and Huge O'Reilly spent most which is 27.7199
+6. Among the different countries USA has made highest purchases which is 561 for ROCK genre.
 
 
