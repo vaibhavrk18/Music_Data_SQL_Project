@@ -8,14 +8,14 @@ Questions solved in this projects are :
 
 BASIC QUESTIONS:
 
-Q1: Who is the senior most employee based on job title?
-Q2: Which countries have the most Invoices?
-Q3: what are top 3 values of invoices?
-Q4: which city has the best customers? we would like to through the promotional music fetival
-    in the city we made the most money. write a query that returns one city that has the highest sum of 
-    invoice totals. return both the city name and sum of all invoice totals.
-Q5: who is the best customer? the customer who has spent the most money will be declared the best 
-    customer. Write the query that returns the person who has spent the most money.
+    Q1: Who is the senior most employee based on job title?
+    Q2: Which countries have the most Invoices?
+    Q3: what are top 3 values of invoices?
+    Q4: which city has the best customers? we would like to through the promotional music fetival
+        in the city we made the most money. write a query that returns one city that has the highest sum of 
+        invoice totals. return both the city name and sum of all invoice totals.
+    Q5: who is the best customer? the customer who has spent the most money will be declared the best 
+        customer. Write the query that returns the person who has spent the most money.
 
 MODERATE QUESTIONS / CTE LEVEL:
     
