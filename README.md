@@ -1,3 +1,4 @@
+<img width="754" alt="Screenshot 2023-09-09 143724" src="https://github.com/vaibhavrk18/Music_Data_SQL_Project/assets/138751404/bf6c9dbd-7f23-47c9-943b-f7ffd06ac97c">
 [Popular Genre In Country by Purchases.csv](https://github.com/vaibhavrk18/Music_Data_SQL_Project/files/12565378/Popular.Genre.In.Country.by.Purchases.csv)
 # Music_Data_SQL_Project
 Music store data contains the information about music album, genre, artist, coutry, spending by each user, country etc.
