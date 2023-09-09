@@ -16,7 +16,7 @@ Lets take look at the work.
 ***
 Questions solved in this projects are :
 
-BASIC QUESTIONS:
+# BASIC QUESTIONS:
 
     Q1: Who is the senior most employee based on job title?
     Q2: Which countries have the most Invoices?
@@ -27,7 +27,7 @@ BASIC QUESTIONS:
     Q5: who is the best customer? the customer who has spent the most money will be declared the best 
         customer. Write the query that returns the person who has spent the most money.
 
-MODERATE QUESTIONS / CTE LEVEL:
+# MODERATE QUESTIONS / CTE LEVEL:
     
     Q6: Write a query to return email, first name, last name and genre of all rock music listeners
         return your list ordered alphabetically by email starting with A.
@@ -37,7 +37,7 @@ MODERATE QUESTIONS / CTE LEVEL:
         Return the Name and Milliseconds for each track. Order by the song length with the longest 
         songs listed first.
 
-ADVANCE QUESTIONS / RECURSIVE CTE / WINDOW_FUNCTION:
+# ADVANCE QUESTIONS / RECURSIVE CTE / WINDOW_FUNCTION:
     
     Q9: Find how much amount spent by each customer on artists? Write a query to return customer
         name, astist name and total spend.
@@ -49,4 +49,7 @@ ADVANCE QUESTIONS / RECURSIVE CTE / WINDOW_FUNCTION:
          Write a query that returns the country along with the customers and how much they spent. for countries
          where the top amount spent is shared, provide all customers who spent this amount.
 
-     
+
+# Summary of the findings:
+
+
