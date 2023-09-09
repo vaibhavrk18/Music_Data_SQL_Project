@@ -19,24 +19,24 @@ BASIC QUESTIONS:
 
 MODERATE QUESTIONS / CTE LEVEL:
     
-Q6: Write a query to return email, first name, last name and genre of all rock music listeners
-    return your list ordered alphabetically by email starting with A.
-Q7: Lets invite the artists who have written the most rock music in our dataset.
-    Write the query that returns the artist name and total track count of the top 10 rock bands.
-Q8: Written all the track names that have song length longer than the average song length.
-    Return the Name and Milliseconds for each track. Order by the song length with the longest 
-    songs listed first.
+    Q6: Write a query to return email, first name, last name and genre of all rock music listeners
+        return your list ordered alphabetically by email starting with A.
+    Q7: Lets invite the artists who have written the most rock music in our dataset.
+        Write the query that returns the artist name and total track count of the top 10 rock bands.
+    Q8: Written all the track names that have song length longer than the average song length.
+        Return the Name and Milliseconds for each track. Order by the song length with the longest 
+        songs listed first.
 
 ADVANCE QUESTIONS / RECURSIVE CTE / WINDOW_FUNCTION:
     
-Q9: Find how much amount spent by each customer on artists? Write a query to return customer
-    name, astist name and total spend.
-Q10: We want to find out the most popular music genre for each country. We determine the most
-     popular genre as the genre with the highest amount of purchases. Write a query that returns
-     each country along with the top genre for country where maximum number of purhcases is shared 
-     return all genres.
-Q11: Write a query that determines the customer that has spent the most on music for each country.
-     Write a query that returns the country along with the customers and how much they spent. for countries
-     where the top amount spent is shared, provide all customers who spent this amount.
+    Q9: Find how much amount spent by each customer on artists? Write a query to return customer
+        name, astist name and total spend.
+    Q10: We want to find out the most popular music genre for each country. We determine the most
+         popular genre as the genre with the highest amount of purchases. Write a query that returns
+         each country along with the top genre for country where maximum number of purhcases is shared 
+         return all genres.
+    Q11: Write a query that determines the customer that has spent the most on music for each country.
+         Write a query that returns the country along with the customers and how much they spent. for countries
+         where the top amount spent is shared, provide all customers who spent this amount.
 
      
