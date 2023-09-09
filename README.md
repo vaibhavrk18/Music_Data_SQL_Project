@@ -1,6 +1,7 @@
 # Music_Data_SQL_Project:
 
 <img width="754" alt="Screenshot 2023-09-09 143724" src="https://github.com/vaibhavrk18/Music_Data_SQL_Project/assets/138751404/bf6c9dbd-7f23-47c9-943b-f7ffd06ac97c">
+
 ***
 OUTPUT OF ABOVE QUERY:
 
