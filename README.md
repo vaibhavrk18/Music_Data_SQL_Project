@@ -1,4 +1,4 @@
-**# Music_Data_SQL_Project:**
+# Music_Data_SQL_Project:
 
 <img width="754" alt="Screenshot 2023-09-09 143724" src="https://github.com/vaibhavrk18/Music_Data_SQL_Project/assets/138751404/bf6c9dbd-7f23-47c9-943b-f7ffd06ac97c">
 
@@ -52,7 +52,7 @@ ADVANCE QUESTIONS / RECURSIVE CTE / WINDOW_FUNCTION:
 
 **SUMMARY OF THE FINDINGS:**
 
-1. Mohan Madan is the senior employee with Level 7.
+1. Mohan Madan is the senior employee holding Level 7.
 2. There are 6 different job titles entertained.
 3. Prague city has the highest sum of invoice Totals and customer name is R Madhav.
 4. Artist "Led Zeppelin" has wrote the most ROCK albums i.e. 114.
