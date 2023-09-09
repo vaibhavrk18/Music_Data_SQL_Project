@@ -1,17 +1,18 @@
 # Music_Data_SQL_Project:
 
 <img width="754" alt="Screenshot 2023-09-09 143724" src="https://github.com/vaibhavrk18/Music_Data_SQL_Project/assets/138751404/bf6c9dbd-7f23-47c9-943b-f7ffd06ac97c">
-
+______________________________________________________________________________________________________________________________________________________________________
 OUTPUT OF ABOVE QUERY:
 
 [Popular Genre In Country by Purchases.csv](https://github.com/vaibhavrk18/Music_Data_SQL_Project/files/12565378/Popular.Genre.In.Country.by.Purchases.csv)
 
+______________________________________________________________________________________________________________________________________________________________________
 
 Music store data contains the information about music album, genre, artist, coutry, spending by each user, country etc.
 I have used different SQL queries and found some important insights from the data.
 
 Lets take look at the work.
-
+______________________________________________________________________________________________________________________________________________________________________
 Questions solved in this projects are :
 
 BASIC QUESTIONS:
