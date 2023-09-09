@@ -8,7 +8,7 @@
 [Popular Genre In Country by Purchases.csv](https://github.com/vaibhavrk18/Music_Data_SQL_Project/files/12565378/Popular.Genre.In.Country.by.Purchases.csv)
 
 ***
-Music store data contains the information about music album, genre, artist, coutry, spending by each user, country etc.
+Music store data contains the information about music album, genre, artist, country, spending by each user etc.
 I have used different SQL queries and found some important insights from the data.
 
 Lets take look at the work.
